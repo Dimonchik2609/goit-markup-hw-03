@@ -311,7 +311,7 @@ border-top: none;
   color: #434455;
   }
   
-  .footer-section {
+  .page-footer {
       background: #2e2f42;
       padding: 100px 0;
     }
@@ -323,9 +323,15 @@ border-top: none;
       letter-spacing: 0.03em;
       text-transform: uppercase;
       color: #f4f4fd;
-      display: inline-block;
-    margin-bottom: 16px;
     }
+    .footer-logo {
+        display: inline-block;
+        margin-bottom: 16px; 
+    }
+      
+      
+      
+    
     .footer-text {
       font-weight: 400;
       font-size: 16px;
