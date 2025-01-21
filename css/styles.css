@@ -45,7 +45,7 @@ body {
         display: flex;
         align-items: center;
       }
-      .logo {
+      .name {
         padding: 24px 0;
     margin-right: 76px;
       }
@@ -315,7 +315,8 @@ border-top: none;
   .page-footer {
       background: #2e2f42;
       padding: 100px 0;
-    }
+  }
+  
     .logo-footer {
       font-family: "Raleway", sans-serif;
       font-weight: 700;
@@ -327,6 +328,7 @@ border-top: none;
     }
     .footer-logo {
         display: inline-block;
+        margin-bottom: 16px;
          
     }
       
